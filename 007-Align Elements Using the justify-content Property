@@ -24,7 +24,6 @@
 </div>
 
 
-
 ...
 An example helps show this property in action. Add the CSS property justify-content to the #box-container element,
 and give it a value of center.
